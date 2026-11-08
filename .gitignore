@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Build output (recreate with ./build.sh)
+*.app/
+icon.iconset/
+
+# Editors
+.vscode/
+.idea/
